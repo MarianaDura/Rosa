@@ -1,2 +1,0 @@
- # PanteraRosa
-ARCHIVO PARA PRUEBA
